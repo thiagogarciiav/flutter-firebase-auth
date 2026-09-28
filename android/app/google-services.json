@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250644030711",
+    "project_id": "loginsignupscreens",
+    "storage_bucket": "loginsignupscreens.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250644030711:android:8645384450c7104b931ff2",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72WD3HcQYtzFRdHBPprhLlHfeDJuxivA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
