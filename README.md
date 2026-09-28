@@ -1,4 +1,4 @@
-# login_signup_screens
+# Flutter-Firebase-Auth
 
 A new Flutter project.
 
