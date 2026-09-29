@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:250644030711:android:8645384450c7104b931ff2",
+        "mobilesdk_app_id": "1:250644030711:android:b73dfc315960e8af931ff2",
         "android_client_info": {
-          "package_name": "com.example.login_signup_screen"
+          "package_name": "com.thiagogarcia.login_signup_screens"
         }
       },
       "oauth_client": [],
